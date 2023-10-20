@@ -1,4 +1,7 @@
 # REMITA UNOFFICIAL LIBRARY
+
+This Node library provides a wrapper to add Remita Payments to your Node application.
+
 ### Checks
 * [![Code Style Analysis](https://github.com/JoshMerlino/ts-package/actions/workflows/code-style-analysis.yml/badge.svg)](https://github.com/JoshMerlino/ts-package/actions/workflows/code-style-analysis.yml)
 * [![Code Quality Analysis](https://github.com/JoshMerlino/ts-package/actions/workflows/code-quality-analysis.yml/badge.svg)](https://github.com/JoshMerlino/ts-package/actions/workflows/code-quality-analysis.yml)
