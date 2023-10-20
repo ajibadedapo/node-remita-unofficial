@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "lib": ["es2020"],
+        "module": "commonjs",
+        "target": "es2020",
+        "types": ["node"],
+        "outDir": "lib",
+        "removeComments": true,
+        "sourceMap": true,
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "noUnusedParameters": true,
+        "allowUnreachableCode": false,
+        "preserveConstEnums": false,
+        "resolveJsonModule": false,
+        "declaration": true,
+        "declarationDir": "src/types",
+    },
+    "include": ["src/**/*.ts"],
+    "exclude": [
+        "node_modules",
+        "lib"
+    ]
+}
