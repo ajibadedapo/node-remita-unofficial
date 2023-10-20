@@ -13,7 +13,7 @@ name: "Code Quality Analysis"
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   pull_request:
     branches: []
 
