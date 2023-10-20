@@ -1,5 +1,5 @@
 {
-  "name": "@ajibde/node-remita-unofficial",
+  "name": "@hammedajibade/node-remita-unofficial",
   "version": "1.0.0",
   "description": "Remita Node Library",
   "main": "lib/",
